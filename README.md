@@ -41,7 +41,7 @@ To provide data-driven insights that help **airlines** improve customer satisfac
 
 ## 🧩 Tools & Libraries
 
-**Python**: pandas, numpy, nltk,stopwords (nltk.corpus),TextBlob,collections.Counter, wordcloud, matplotlib
+**Python**: pandas, numpy,re, nltk,stopwords (nltk.corpus),TextBlob,collections.Counter, wordcloud, matplotlib
 
 **Visualization**: **Tableau** 
 
