@@ -6,7 +6,7 @@ It combines **Natural Language Processing (NLP)** techniques with interactive **
 
 ## ⚙️Workflow
 
-**Data Preparation (Kaggle Notebook)**
+- **Data Preparation (Kaggle Notebook)**
 
 Cleaned and preprocessed airline review data.
 
@@ -17,7 +17,7 @@ Extracted frequent positive and negative keywords for visualization.
 **View full notebook on Kaggle →** https://www.kaggle.com/code/halaturkialotaibi/sentiment-experience-analysis-of-airline-reviews/notebook
 
 
-**Visualization (Tableau)**
+- **Visualization (Tableau)**
 
 Built an interactive dashboard to explore passenger insights:
 
@@ -32,7 +32,9 @@ Deep-dive view for any selected airline.
 ## 💡 Key Insights
 
 ✈️ **Leisure travelers** form the majority of passengers.
+
 💺 Economy class dominates review volume.
+
 👍 Airlines with better service and punctuality show stronger positive sentiment.
 
 ## 🎯 Goal
